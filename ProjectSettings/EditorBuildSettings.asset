@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3030cb71f1a5b41a58abcef86ac23815
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 3559735c5fe994edda792e657bd6d475
+  - enabled: 1
+    path: Assets/Scenes/Storage.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Minigame2.unity
+    guid: a988fdec00e7147bda01ef904181fb6d
+  - enabled: 1
+    path: Assets/Scenes/Minigame3.unity
+    guid: 526ce3243bdca4a7fbdf35dd03ba4641
+  - enabled: 1
+    path: Assets/Scenes/Tsunami.unity
+    guid: 390323ff2017e8849a37b81d88a630fb
+  - enabled: 1
+    path: Assets/Scenes/WoundTreatment.unity
+    guid: 027f3e5aab50d4c31aa5c39ec0180d90
+  - enabled: 1
+    path: Assets/Scenes/Fact1.unity
+    guid: 0524273e516b34feaabfa5fad4965940
+  - enabled: 1
+    path: Assets/Scenes/Fact2.unity
+    guid: 7430f5d64390d49fb89a7481ea20919f
+  - enabled: 1
+    path: Assets/Scenes/Fact3.unity
+    guid: db13b0722f45e4524b8eb7838008c17e
+  - enabled: 1
+    path: Assets/Scenes/Fact4.unity
+    guid: 751e83d7c08114996892ebc8d355f82e

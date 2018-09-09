@@ -1,0 +1,6 @@
+Temp/*
+Library/*
+Lock*
+.DS_Store
+.vs
+*.csproj
